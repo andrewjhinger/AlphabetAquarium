@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetAquarium", "AlphabetAquarium\AlphabetAquarium.csproj", "{CEEF1E92-EA2A-4403-89F0-A5E72BA2A67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEF1E92-EA2A-4403-89F0-A5E72BA2A67D}.Debug|x86.ActiveCfg = Debug|x86
+		{CEEF1E92-EA2A-4403-89F0-A5E72BA2A67D}.Debug|x86.Build.0 = Debug|x86
+		{CEEF1E92-EA2A-4403-89F0-A5E72BA2A67D}.Release|x86.ActiveCfg = Release|x86
+		{CEEF1E92-EA2A-4403-89F0-A5E72BA2A67D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
